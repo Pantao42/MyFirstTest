@@ -1,3 +1,5 @@
 # ignore all Log-Files
 *.log
+# ignore Target-Directories
+**/target
 
