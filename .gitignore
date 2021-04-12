@@ -2,4 +2,6 @@
 *.log
 # ignore Target-Directories
 **/target
+# Password-File
+.pw_file
 
