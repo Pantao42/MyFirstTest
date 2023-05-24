@@ -1,3 +1,4 @@
+Version 1.2
 MyFirstTest
 Test
 Noch ein Test
