@@ -1,6 +1,7 @@
 Version 1.8
 MyFirstTest
 Test
+Neuer Test
 Noch ein Test
 Und hier eine mit IntelliJ
 Zeile von P43
