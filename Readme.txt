@@ -1,6 +1,7 @@
 Version 1.8
 MyFirstTest
 NextLine
+NewLine
 Just another Line of Text
 And another
 Test
