@@ -1,6 +1,7 @@
 Version 1.8
 one
 two
+three
 MyFirstTest
 NextLine
 NewLine
